@@ -2,7 +2,6 @@
 
 ## Welcome! 👋 Thanks for checking out thing Challenge
 
-[Figma file link] (https://www.figma.com/file/mPced3dakTkMSK8o12XqcH/%F0%9F%94%B4-Sunny-Side--Agency-Landing-Page-%F0%9F%94%B4?node-id=0%3A1)
 [Frontend Metor Link] (https://www.frontendmentor.io/challenges/sunnyside-agency-landing-page-7yVs3B6ef)
 
 Your challenge is to build out this preview card component and get it looking as close to the design as possible. Your users should be able to:
